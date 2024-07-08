@@ -20,3 +20,11 @@ cron
 3. Añade esto en tu server.cfg: start esx_vehicleshop
 
 Si deseas la gestión de jugadores, debes establecer Config.EnablePlayerManagement como true en config.lua
+
+### License
+
+Derechos de autor (C) 2024-2025 R.H Scripts
+
+Este programa es software libre: puedes redistribuirlo y/o modificarlo según los términos de la Licencia Pública General GNU publicada por la Free Software Foundation, ya sea la versión 3 de la licencia o (a tu elección) cualquier versión posterior.
+
+Este programa se distribuye con la esperanza de que sea útil, pero SIN GARANTÍA; incluso sin la garantía implícita de COMERCIABILIDAD o IDONEIDAD PARA UN PROPÓSITO PARTICULAR. Consulta la Licencia Pública General GNU para más detalles.
